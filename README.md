@@ -2,7 +2,7 @@
 
 **`YisusQc [Computer Science Student]`**
 
-I am a Computer Science student passionate about programming. I enjoy teaching what I know and learning from others. I like designing innovative solutions as part of a team while also developing my own projects to reinforce what I’ve learned, analyzing the evolution of technologies over time, and exploring how to apply them efficiently.
+I'm a Computer Science student passionate about programming. I enjoy teaching what I know and learning from others. I like designing innovative solutions as part of a team while also developing my own projects to reinforce what I’ve learned, analyzing the evolution of technologies over time, and exploring how to apply them efficiently.
 
 ---
 
